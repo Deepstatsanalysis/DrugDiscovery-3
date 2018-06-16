@@ -38,4 +38,4 @@ TBA
 
 TBA
 
-Resources: https://www.click2drug.org/index.html#Databases 
+Resources: https://www.click2drug.org/index.html
