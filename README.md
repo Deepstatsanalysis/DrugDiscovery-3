@@ -37,3 +37,5 @@ TBA
 ## Lead Optimization
 
 TBA
+
+Resources: https://www.click2drug.org/index.html#Databases 
