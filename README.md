@@ -36,6 +36,10 @@ TBA
 
 ## Lead Optimization
 
-TBA
+This is the process of taking a lead and chemically modifying it (e.g. exchanging functional group) so that it may bind better. 
+
+I am currently working on a lead optimization research project under Dr. David Koes (see KoesGroup and LeadOptimization repositories for more info). 
+
+# 
 
 Resources: https://www.click2drug.org/index.html
