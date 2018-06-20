@@ -14,6 +14,12 @@ Lipinski's Rule of 5:
 * Molecular Mass <500 Daltons 
 * Octanol-Water Partition Coefficient log(P) <= 5  
 
+Large Chemical Databases: 
+* https://pubchem.ncbi.nlm.nih.gov/ 
+* https://www.ebi.ac.uk/chembl/index.php 
+* https://www.drugbank.ca/ 
+* (Information/More Resources: https://en.wikipedia.org/wiki/Chemical_database) 
+
 PubChem Substances: 250,188,056
 
 Lipinski's Rule of 5 Substance: 
