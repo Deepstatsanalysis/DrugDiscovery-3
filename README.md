@@ -4,6 +4,12 @@
 
 This is usually up to the discresion of the user. Hopefully there is a crystal structure. If not, it might be possible to do some homology modeling. I will revisit this area in the future....
 
+## Obtaining Protein Structure 
+
+### Homology Modeling 
+
+(Project Idea: Writing script to download .pdb file of protein in PDB most closely related to sequence of amino acids) 
+
 ## Building a Small Molecule Database
 
 In efforts to build a small molecule database, I will write a script to pull all molecules from PubChem that follow Lipinski's Rule of 5
@@ -34,11 +40,15 @@ TBA
 
 ## Virtual High-Throughput Screening
 
-TBA 
+### Ligand-Based
+
+### Receptor-Based
 
 ## Lead Design
 
-TBA 
+### Ligand-Based
+
+### Receptor-Based 
 
 ## Lead Optimization
 
