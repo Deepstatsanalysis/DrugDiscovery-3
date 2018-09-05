@@ -2,7 +2,7 @@
 
 ## Selecting a Protein Target 
 
-This is usually up to the discresion of the user. Hopefully there is a crystal structure. If not, it might be possible to do some homology modeling. I will revisit this area in the future....
+This is usually up to the discretion of the user. Hopefully there is a crystal structure. If not, it might be possible to do some homology modeling. I will revisit this area in the future....
 
 ## Obtaining Protein Structure 
 
