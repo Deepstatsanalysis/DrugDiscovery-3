@@ -6,6 +6,10 @@ This is usually up to the discretion of the user. Hopefully there is a crystal s
 
 ## Obtaining Protein Structure 
 
+### Just Downloading It 
+
+To find a receptor, the first thing you should probably do is check http://www.rcsb.org. These structures should be avaiable for download in .pdb format, which is universally used for working with 3D protein structures. 
+
 ### Homology Modeling 
 
 (Project Idea: Writing script to download .pdb file of protein in PDB most closely related to sequence of amino acids) 
@@ -29,8 +33,6 @@ Large Chemical Databases:
 PubChem Substances: 250,188,056
 
 Lipinski's Rule of 5 Substance: 
-
-(*Note: Octanol-Water measurement not included as that has to be experimentally determined*)
 
 In  an effort to be efficient in speed and time, it might be best to consolidate this set by selecting a subset of molecules that are representatitve of the larger set.  
 
