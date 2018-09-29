@@ -1,5 +1,7 @@
 # Computational Drug Discovery Process
 
+Believe it or not, anyone can do computational drug design/discovery. Yes, even you! Below, I describe a simplified process for taking a receptor of choice and developing a model for a new drug. 
+
 ## Selecting a Protein Target 
 
 This is usually up to the discretion of the user. Hopefully there is a crystal structure. If not, it might be possible to do some homology modeling. I will revisit this area in the future....
